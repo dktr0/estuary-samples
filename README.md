@@ -8,7 +8,7 @@ Important: Please ensure that all samples you contribute are samples where you a
 
 - Create an account on github.com (just once).
 
-- Fork the repository by going to the central copy of it on github at https://github.com/dktr0/supercontinent.git and clicking on the Fork button (just once).
+- Fork the repository by going to the central copy of it on github at https://github.com/dktr0/estuary-samples.git and clicking on the Fork button (just once).
 
 - Clone *your*copy* of the repository from github to a computer in your posession. For example:
 
