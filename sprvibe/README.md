@@ -1,11 +1,5 @@
 These were samples created programmatically from the SuperDirt synth 'supervibe', spanning MIDI notes 12-96.
 
-NB: I've prefixed the filenames for notes 12-59 with 1_ and notes 60-96 with 0_ so that the latter will precede the former in the file indexing. So,
-
-`n "0 -1" # s "sprvibe" `
-
-will produce MIDI notes 60 and 59 respectively, instead of MIDI notes 12 and 96 (i.e., it should behave the same as the actual supervibe synth).
-
 <br>
 
 Here is the SuperCollider code that I used to create the files (based mostly on this [SO post]( https://stackoverflow.com/a/22394238/2717159))
