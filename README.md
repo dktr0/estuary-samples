@@ -51,5 +51,5 @@ git push
 
 ```
 cd ~/estuary-samples
-git pull https://github.com/dktr0/supercontinent.git master
+git pull https://github.com/dktr0/supercontinent.git main
 ```
