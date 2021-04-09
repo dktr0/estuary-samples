@@ -1,0 +1,101 @@
+{
+  "copyright": "(c) 2021 Trevor Exter <trevorexter@gmail.com>",
+  "description": "Plucked cello samples tuned to C with various attacks, styles, releases and octaves including percussive body hits",
+  "email": "bernard.gray@gmail.com",
+  "license": "CC0",
+  "maintainer": "Bernard Gray",
+  "metadata-format": "clean-0.1",
+  "provenance": "Plucked cello samples tuned to C with various attacks, styles, releases and octaves including percussive body hits",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "./01_C2_pluck_long.wav",
+      "shortname": "01_C2_pluck_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./02_C2_pluck_short.wav",
+      "shortname": "02_C2_pluck_short",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./03_C2_pluck_popped.wav",
+      "shortname": "03_C2_pluck_popped",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./04_C3_pluck_long.wav",
+      "shortname": "04_C3_pluck_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./05_C3_pluck_short.wav",
+      "shortname": "05_C3_pluck_short",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./06_C3_plucked_popped.wav",
+      "shortname": "06_C3_plucked_popped",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./07_C3_pluck_harmonic.wav",
+      "shortname": "07_C3_pluck_harmonic",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./08_C4_plucked.wav",
+      "shortname": "08_C4_plucked",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./09_C5_plucked.wav",
+      "shortname": "09_C5_plucked",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./10_ghost_pluck.wav",
+      "shortname": "10_ghost_pluck",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./11_body_low.wav",
+      "shortname": "11_body_low",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./12_body_high.wav",
+      "shortname": "12_body_high",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./13_rub.wav",
+      "shortname": "13_rub",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./14_arpeggio_plucked.wav",
+      "shortname": "14_arpeggio_plucked",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "./15_pluck_riff_blues_descending.wav",
+      "shortname": "15_pluck_riff_blues_descending",
+      "type": "sample"
+    }
+  ]
+}
