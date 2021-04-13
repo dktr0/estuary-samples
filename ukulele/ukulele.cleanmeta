@@ -1,0 +1,83 @@
+{
+  "copyright": "(c) 2021 Thomas Grund",
+  "description": "Ukulele samples - tuned to C with various attack styles, releases, vibrato, slides and harmonics",
+  "email": "info@mrreason.org",
+  "license": "CC0",
+  "maintainer": "thgrund",
+  "metadata-format": "clean-0.1",
+  "provenance": "Ukulele samples - tuned to C with various attack styles, releases, vibrato, slides and harmonics",
+  "shortname": "ukulele",
+  "sound_type": "sample",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "00_c3_long_soft.wav",
+      "shortname": "00_c3_long_soft"
+    },
+    {
+      "description": "",
+      "filename": "01_c3_short_soft.wav",
+      "shortname": "01_c3_short_soft"
+    },
+    {
+      "description": "",
+      "filename": "02_c3_long_hard.wav",
+      "shortname": "02_c3_long_hard"
+    },
+    {
+      "description": "",
+      "filename": "03_c3_short_hard.wav",
+      "shortname": "03_c3_short_hard"
+    },
+    {
+      "description": "",
+      "filename": "04_c3_palm_muted.wav",
+      "shortname": "04_c3_palm_muted"
+    },
+    {
+      "description": "",
+      "filename": "05_c4_soft.wav",
+      "shortname": "05_c4_soft"
+    },
+    {
+      "description": "",
+      "filename": "06_c4_hard.wav",
+      "shortname": "06_c4_hard"
+    },
+    {
+      "description": "",
+      "filename": "07_c4_vibrato_1.wav",
+      "shortname": "07_c4_vibrato_1"
+    },
+    {
+      "description": "",
+      "filename": "08_c4_vibrato_2.wav",
+      "shortname": "08_c4_vibrato_2"
+    },
+    {
+      "description": "",
+      "filename": "09_c4_slide_down.wav",
+      "shortname": "09_c4_slide_down"
+    },
+    {
+      "description": "",
+      "filename": "10_c4_slide_up.wav",
+      "shortname": "10_c4_slide_up"
+    },
+    {
+      "description": "",
+      "filename": "11_c4_harmonic.wav",
+      "shortname": "11_c4_harmonic"
+    },
+    {
+      "description": "",
+      "filename": "12_dead_notes_up.wav",
+      "shortname": "12_dead_notes_up"
+    },
+    {
+      "description": "",
+      "filename": "13_dead_notes_down.wav",
+      "shortname": "13_dead_notes_down"
+    }
+  ]
+}
